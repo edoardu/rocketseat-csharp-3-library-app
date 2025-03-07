@@ -1,6 +1,33 @@
 @LibraryWebApp_HostAddress = http://localhost:5098
 
-GET {{LibraryWebApp_HostAddress}}/books/
+### Get all books
+GET {{LibraryWebApp_HostAddress}}/api/book/
 Accept: application/json
 
-###
+### Create a new book
+POST {{LibraryWebApp_HostAddress}}/api/book/
+Content-Type: application/json
+
+{
+  "name": "A Brief History of Time",
+  "author": "Stephen Hawking",
+  "genre": 0,
+  "price": 15.99,
+  "qtyInStock": 10
+}
+
+### Update an existing book
+PUT {{LibraryWebApp_HostAddress}}/api/book/
+Content-Type: application/json
+{
+    "id": "1",
+    "name": "The Art of War",
+    "author": "Sun Tzu",
+    "genre": 2,
+    "price": 11.99,
+    "qtyInStock": 15
+}
+
+### Delete an existing book
+DELETE {{LibraryWebApp_HostAddress}}/api/book/1
+```

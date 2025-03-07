@@ -1,0 +1,6 @@
+@LibraryWebApp_HostAddress = http://localhost:5098
+
+GET {{LibraryWebApp_HostAddress}}/books/
+Accept: application/json
+
+###

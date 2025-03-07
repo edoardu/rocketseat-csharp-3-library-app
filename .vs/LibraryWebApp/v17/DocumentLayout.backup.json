@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\dotnet\\LibraryWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D43330A2-3C07-457F-B221-BD0F05337C3C}|LibraryWebApp\\LibraryWebApp.csproj|d:\\workspace\\dotnet\\librarywebapp\\librarywebapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43330A2-3C07-457F-B221-BD0F05337C3C}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43330A2-3C07-457F-B221-BD0F05337C3C}|LibraryWebApp\\LibraryWebApp.csproj|d:\\workspace\\dotnet\\librarywebapp\\librarywebapp\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43330A2-3C07-457F-B221-BD0F05337C3C}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43330A2-3C07-457F-B221-BD0F05337C3C}|LibraryWebApp\\LibraryWebApp.csproj|d:\\workspace\\dotnet\\librarywebapp\\librarywebapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43330A2-3C07-457F-B221-BD0F05337C3C}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43330A2-3C07-457F-B221-BD0F05337C3C}|LibraryWebApp\\LibraryWebApp.csproj|d:\\workspace\\dotnet\\librarywebapp\\librarywebapp\\controllers\\librarywebappbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43330A2-3C07-457F-B221-BD0F05337C3C}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\controllers\\librarywebappbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\workspace\\dotnet\\LibraryWebApp\\LibraryWebApp\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Services\\BookService.cs",
+              "ToolTip": "D:\\workspace\\dotnet\\LibraryWebApp\\LibraryWebApp\\Services\\BookService.cs",
+              "RelativeToolTip": "LibraryWebApp\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:30:59.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\workspace\\dotnet\\LibraryWebApp\\LibraryWebApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Models\\Book.cs",
+              "ToolTip": "D:\\workspace\\dotnet\\LibraryWebApp\\LibraryWebApp\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryWebApp\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:30:51.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryWebAppBaseController.cs",
+              "DocumentMoniker": "D:\\workspace\\dotnet\\LibraryWebApp\\LibraryWebApp\\Controllers\\LibraryWebAppBaseController.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Controllers\\LibraryWebAppBaseController.cs",
+              "ToolTip": "D:\\workspace\\dotnet\\LibraryWebApp\\LibraryWebApp\\Controllers\\LibraryWebAppBaseController.cs",
+              "RelativeToolTip": "LibraryWebApp\\Controllers\\LibraryWebAppBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:29:05.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\workspace\\dotnet\\LibraryWebApp\\LibraryWebApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\workspace\\dotnet\\LibraryWebApp\\LibraryWebApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryWebApp\\Controllers\\BookController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:59:00.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
